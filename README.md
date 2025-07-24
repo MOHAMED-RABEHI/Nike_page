@@ -30,7 +30,14 @@ This is a **fully responsive, modern Nike-inspired landing page** built using **
 
 ## 🔧 Setup & Run
 1. **Clone the repository**
-   ```bash git clone https://github.com/MOHAMED-RABEHI/Nike_page.git
-cd nike-landing-page
+   ```bash git clone https://github.com/MOHAMED-RABEHI/Nike_page.git ```
+
+cd Nike_page
+
 npm install
+
+
 npm run dev
+
+
+
